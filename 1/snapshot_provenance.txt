@@ -1,0 +1,3 @@
+Source: NASA Exoplanet Archive pscomppars via TAP
+Retrieved UTC: 2026-10-23T16:51:46.177079+00:00
+ADQL: SELECT pl_name,hostname,discoverymethod,disc_year,pl_rade,pl_radeerr1,pl_radeerr2,pl_bmasse,pl_orbsmax,pl_orbper,pl_insol,pl_insolerr1,pl_insolerr2,st_teff,st_tefferr1,st_tefferr2,st_rad,st_raderr1,st_raderr2,st_lum,sy_dist,sy_vmag,tran_flag FROM pscomppars
